@@ -1,5 +1,5 @@
-# Windows syscalls exist
+# I Found That Windows syscalls DO EXIST
 
-# VERSION 24H2
+# Get syscall number directly from my ntdll.dll
 
-# PURE SYSCALL
+# NO API FUNCTION, PURE SYSCALL
