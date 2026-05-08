@@ -1,6 +1,5 @@
-;NtOpenFile 0x0033
-;NtWriteFile 0x001b 
-;NtClose 0x000f
+
+;WARNING: HARDCODED SSN NUMBER
 global main
 %define NT_SUCCESS 0
 extern printf
